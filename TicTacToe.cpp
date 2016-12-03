@@ -1,3 +1,5 @@
+#includ "TicTacToe.h"
+
 int main()
 {
     r[0].Right = 79 ;
